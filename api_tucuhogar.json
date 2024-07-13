@@ -1,125 +1,123 @@
-{
-    "electrodomesticos": [
-        {
-            "id": 1,
-            "badge": "¡Oferta exclusiva!",
-            "categoria": "Celulares",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_815862-MLA43921536321_102020-O.webp",
-            "descripcionImagen": "Celular Moto G9 Play color azul",
-            "nombre": "Motorola Moto G9 Play",
-            "descripcion": "4GB de RAM. 256GB. Azul. 50mp Quad Pixel",
-            "precioAnterior": 275000,
-            "precio": 256000
-        },
-        {
-            "id": 2,
-            "badge": "¡Descuento especial!",
-            "categoria": "Laptops",
-            "imagen": "https://m.media-amazon.com/images/I/71nP6lTogjL._AC_SL1500_.jpg",
-            "nombre": "Dell Inspiron 15",
-            "descripcion": "8GB de RAM. 512GB SSD. Negro. Pantalla Full HD",
-            "precioAnterior": 350000,
-            "precio": 320000
-        },
-        {
-            "id": 3,
-            "badge": "¡Nueva llegada!",
-            "categoria": "Tabletas",
-            "imagen": "https://images.fravega.com/f1000/bd2c87c5cdb6252b864310fd8abce89f.jpg",
-            "nombre": "Samsung Galaxy Tab S7",
-            "descripcion": "6GB de RAM. 128GB. Plata. Pantalla AMOLED",
-            "precioAnterior": 210000,
-            "precio": 195000
-        },
-        {
-            "id": 4,
-            "badge": "¡Super oferta!",
-            "categoria": "Auriculares",
-            "imagen": "https://http2.mlstatic.com/D_733996-MLA48382517450_112021-O.jpg",
-            "nombre": "Sony WH-1000XM4",
-            "descripcion": "Cancelación de ruido. Negro",
-            "precioAnterior": 150000,
-            "precio": 135000
-        },
-        {
-            "id": 5,
-            "badge": "¡Oferta relámpago!",
-            "categoria": "Smartwatches",
-            "imagen": "https://cdn-ipoint.waugi.com.ar/img/cms/landings-fichas/Watch/Watch%20Series%206/RX-S1_Smart_1_GPS.png",
-            "nombre": "Apple Watch Series 6",
-            "descripcion": "GPS. 44mm. Plata",
-            "precioAnterior": 180000,
-            "precio": 165000
-        },
-        {
-            "id": 6,
-            "badge": "¡Aprovechá!",
-            "categoria": "Televisores",
-            "imagen": "https://www.lg.com/ar/images/televisores/md05828056/gallery/55UJ6580_Destop01_09082017.jpg",
-            "nombre": "LG Smart TV 55\"",
-            "descripcion": "4K UHD. Negro",
-            "precioAnterior": 500000,
-            "precio": 450000
-        },
-        {
-            "id": 7,
-            "badge": "¡Mejor precio!",
-            "categoria": "Consolas",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_647125-MLA43921536321_102020-O.webp",
-            "nombre": "PlayStation 5",
-            "descripcion": "825GB. Blanco",
-            "precioAnterior": 650000,
-            "precio": 600000
-        },
-        {
-            "id": 8,
-            "badge": "¡Te conviene!",
-            "categoria": "Cámaras",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_674215-MLA43921536321_102020-O.webp",
-            "nombre": "Canon EOS M50",
-            "descripcion": "24.1MP. Negro. Con lente 15-45mm",
-            "precioAnterior": 300000,
-            "precio": 280000
-        },
-        {
-            "id": 9,
-            "badge": "¡Ahorra ahora!",
-            "categoria": "Monitores",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_859235-MLA43921536321_102020-O.webp",
-            "nombre": "Samsung Curved Monitor 27\"",
-            "descripcion": "Full HD. Blanco",
-            "precioAnterior": 150000,
-            "precio": 140000
-        },
-        {
-            "id": 10,
-            "badge": "¡Gran descuento!",
-            "categoria": "Impresoras",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_916245-MLA43921536321_102020-O.webp",
-            "nombre": "HP LaserJet Pro",
-            "descripcion": "Impresora Láser. Blanca",
-            "precioAnterior": 120000,
-            "precio": 110000
-        },
-        {
-            "id": 11,
-            "badge": "¡Oferta del día!",
-            "categoria": "Accesorios",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_861375-MLA43921536321_102020-O.webp",
-            "nombre": "Cargador Inalámbrico Belkin",
-            "descripcion": "10W. Blanco",
-            "precioAnterior": 25000,
-            "precio": 20000
-        },
-        {
-            "id": 12,
-            "badge": "¡Última oportunidad!",
-            "categoria": "Componentes de PC",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_712357-MLA43921536321_102020-O.webp",
-            "nombre": "NVIDIA GeForce RTX 3080",
-            "descripcion": "10GB GDDR6X. Negro",
-            "precioAnterior": 700000,
-            "precio": 650000
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "badge": "¡Oferta exclusiva!",
+        "categoria": "Celulares",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_815862-MLA43921536321_102020-O.webp",
+        "descripcionImagen": "Celular Moto G9 Play color azul",
+        "nombre": "Motorola Moto G9 Play",
+        "descripcion": "4GB de RAM. 256GB. Azul. 50mp Quad Pixel",
+        "precioAnterior": 275000,
+        "precio": 256000
+    },
+    {
+        "id": 2,
+        "badge": "¡Descuento especial!",
+        "categoria": "Laptops",
+        "imagen": "https://m.media-amazon.com/images/I/71nP6lTogjL._AC_SL1500_.jpg",
+        "nombre": "Dell Inspiron 15",
+        "descripcion": "8GB de RAM. 512GB SSD. Negro. Pantalla Full HD",
+        "precioAnterior": 350000,
+        "precio": 320000
+    },
+    {
+        "id": 3,
+        "badge": "¡Nueva llegada!",
+        "categoria": "Tabletas",
+        "imagen": "https://images.fravega.com/f1000/bd2c87c5cdb6252b864310fd8abce89f.jpg",
+        "nombre": "Samsung Galaxy Tab S7",
+        "descripcion": "6GB de RAM. 128GB. Plata. Pantalla AMOLED",
+        "precioAnterior": 210000,
+        "precio": 195000
+    },
+    {
+        "id": 4,
+        "badge": "¡Super oferta!",
+        "categoria": "Auriculares",
+        "imagen": "https://http2.mlstatic.com/D_733996-MLA48382517450_112021-O.jpg",
+        "nombre": "Sony WH-1000XM4",
+        "descripcion": "Cancelación de ruido. Negro",
+        "precioAnterior": 150000,
+        "precio": 135000
+    },
+    {
+        "id": 5,
+        "badge": "¡Oferta relámpago!",
+        "categoria": "Smartwatches",
+        "imagen": "https://cdn-ipoint.waugi.com.ar/img/cms/landings-fichas/Watch/Watch%20Series%206/RX-S1_Smart_1_GPS.png",
+        "nombre": "Apple Watch Series 6",
+        "descripcion": "GPS. 44mm. Plata",
+        "precioAnterior": 180000,
+        "precio": 165000
+    },
+    {
+        "id": 6,
+        "badge": "¡Aprovechá!",
+        "categoria": "Televisores",
+        "imagen": "https://www.lg.com/ar/images/televisores/md05828056/gallery/55UJ6580_Destop01_09082017.jpg",
+        "nombre": "LG Smart TV 55\"",
+        "descripcion": "4K UHD. Negro",
+        "precioAnterior": 500000,
+        "precio": 450000
+    },
+    {
+        "id": 7,
+        "badge": "¡Mejor precio!",
+        "categoria": "Consolas",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_647125-MLA43921536321_102020-O.webp",
+        "nombre": "PlayStation 5",
+        "descripcion": "825GB. Blanco",
+        "precioAnterior": 650000,
+        "precio": 600000
+    },
+    {
+        "id": 8,
+        "badge": "¡Te conviene!",
+        "categoria": "Cámaras",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_674215-MLA43921536321_102020-O.webp",
+        "nombre": "Canon EOS M50",
+        "descripcion": "24.1MP. Negro. Con lente 15-45mm",
+        "precioAnterior": 300000,
+        "precio": 280000
+    },
+    {
+        "id": 9,
+        "badge": "¡Ahorra ahora!",
+        "categoria": "Monitores",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_859235-MLA43921536321_102020-O.webp",
+        "nombre": "Samsung Curved Monitor 27\"",
+        "descripcion": "Full HD. Blanco",
+        "precioAnterior": 150000,
+        "precio": 140000
+    },
+    {
+        "id": 10,
+        "badge": "¡Gran descuento!",
+        "categoria": "Impresoras",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_916245-MLA43921536321_102020-O.webp",
+        "nombre": "HP LaserJet Pro",
+        "descripcion": "Impresora Láser. Blanca",
+        "precioAnterior": 120000,
+        "precio": 110000
+    },
+    {
+        "id": 11,
+        "badge": "¡Oferta del día!",
+        "categoria": "Accesorios",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_861375-MLA43921536321_102020-O.webp",
+        "nombre": "Cargador Inalámbrico Belkin",
+        "descripcion": "10W. Blanco",
+        "precioAnterior": 25000,
+        "precio": 20000
+    },
+    {
+        "id": 12,
+        "badge": "¡Última oportunidad!",
+        "categoria": "Componentes de PC",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_712357-MLA43921536321_102020-O.webp",
+        "nombre": "NVIDIA GeForce RTX 3080",
+        "descripcion": "10GB GDDR6X. Negro",
+        "precioAnterior": 700000,
+        "precio": 650000
+    }
+]
