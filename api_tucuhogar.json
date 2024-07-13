@@ -62,11 +62,11 @@
     },
     {
         "id": 7,
-        "badge": "¡Mejor precio!",
+        "badge": "¡Es para vos!",
         "categoria": "Consolas",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_647125-MLA43921536321_102020-O.webp",
-        "nombre": "PlayStation 5",
-        "descripcion": "825GB. Blanco",
+        "nombre": "PlayStation 4",
+        "descripcion": "325GB. Negro",
         "precioAnterior": 650000,
         "precio": 600000
     },
