@@ -54,7 +54,7 @@
         "precioAnterior": 580000,
         "precio": 652000
     },
-      {
+    {
         "id": 6,
         "badge": "",
         "categoria": "Cocina",
@@ -64,16 +64,5 @@
         "descripcion": "Grill. Eléctrico. 2200w",
         "precioAnterior": null,
         "precio": 229.999
-    },
-    {
-        "id": 7,
-        "badge": "",
-        "categoria": "",
-        "imagen": "",
-        "descripcionImagen": "",
-        "nombre": "",
-        "descripcion": "",
-        "precioAnterior": null,
-        "precio": null
     }
 ]
