@@ -7,8 +7,8 @@
         "descripcionImagen": "Moto G9 Play color azul",
         "nombre": "Motorola Moto G9 Play",
         "descripcion": "4GB de RAM. 256GB. Azul. 50mp Quad Pixel",
-        "precioAnterior": 275000,
-        "precio": 256000
+        "precioAnterior": "$275.000",
+        "precio": "$256000"
     },
     {
         "id": 2,
@@ -18,8 +18,8 @@
         "descripcionImagen": "",
         "nombre": "Dell Inspiron 15",
         "descripcion": "8GB de RAM. 512GB SSD. Negro. Pantalla Full HD",
-        "precioAnterior": 350000,
-        "precio": 320000
+        "precioAnterior": "350.000",
+        "precio": "$320.000"
     },
     {
         "id": 3,
