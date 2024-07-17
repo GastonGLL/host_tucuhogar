@@ -8,7 +8,7 @@
         "nombre": "Motorola Moto G9 Play",
         "descripcion": "4GB de RAM. 256GB. Azul. 50mp Quad Pixel",
         "precioAnterior": "$275.000",
-        "precio": "$256000"
+        "precio": "$256.000"
     },
     {
         "id": 2,
@@ -29,8 +29,8 @@
         "descripcionImagen": "",
         "nombre": "Samsung Galaxy Tab S7",
         "descripcion": "6GB de RAM. 128GB. Plata. Pantalla AMOLED",
-        "precioAnterior": 210000,
-        "precio": 195000
+        "precioAnterior": "$210.000",
+        "precio": "$195.000"
     },
     {
         "id": 4,
@@ -51,8 +51,8 @@
         "descripcionImagen": "Iphone X, color blanco",
         "nombre": "Iphone X",
         "descripcion": "500GB. Blanco. 100mpx",
-        "precioAnterior": 580000,
-        "precio": 652000
+        "precioAnterior": "$580.000",
+        "precio": "$652.000"
     },
     {
         "id": 6,
@@ -63,6 +63,6 @@
         "nombre": "Horno Atma",
         "descripcion": "Grill. Eléctrico. 2200w",
         "precioAnterior": null,
-        "precio": 229.999
+        "precio": "$229.999"
     }
 ]
