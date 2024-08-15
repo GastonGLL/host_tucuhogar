@@ -12,6 +12,17 @@
     },
     {
         "id": 2,
+        "badge": "¡Compra inteligente!",
+        "categoria": "Celulares",
+        "imagen": "https://d28hi93gr697ol.cloudfront.net/9ef84dda-32dd-4016-7da3-1c0a824fffb4/img/Producto/7a3edd86-e859-bba8-8dd9-7510d4f22933/moto-g54-661c55613201f-O.png",
+        "descripcionImagen": "MOTO G54",
+        "nombre": "MOTO G54",
+        "descripcion": "128 GB",
+        "precioAnterior": "",
+        "precio": "$483.000"
+    },
+    {
+        "id": 2,
         "badge": "¡Oferta!",
         "categoria": "Celulares",
         "imagen": "https://mancihogar.com.ar/wp-content/uploads/2023/08/tcl-40-se-dual-sim-dark-grey-256gb-and-6gb-ram.jpg",
@@ -45,7 +56,7 @@
     },
     {
         "id": 5,
-        "badge": "",
+        "badge": "Calidad garantizada",
         "categoria": "Televisores",
         "imagen": "https://images.fravega.com/f1000/f756be6c89c9bb4aed6dc00327d094dc.jpg",
         "descripcionImagen": "Samsung A05",
