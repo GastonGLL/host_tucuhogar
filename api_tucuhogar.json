@@ -1,13 +1,90 @@
 [
     {
         "id": 1,
+        "badge": "¡Imperdible!",
+        "categoria": "Celulares",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_703698-MLU76921796851_062024-O.webp",
+        "descripcionImagen": "Noblex N62",
+        "nombre": "Noblex N62",
+        "descripcion": "64GB",
+        "precioAnterior": "$225.000",
+        "precio": "$196.000"
+    },
+    {
+        "id": 2,
+        "badge": "¡Oferta!",
+        "categoria": "Celulares",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_703698-MLU76921796851_062024-O.webp",
+        "descripcionImagen": "TCL 40 SE",
+        "nombre": "TCL 40 SE",
+        "descripcion": "128 GB",
+        "precioAnterior": "$275.600",
+        "precio": "$253.000"
+    },
+    {
+        "id": 3,
+        "badge": "¡Aprovechá!",
+        "categoria": "Celulares",
+        "imagen": "https://tiendaonline.movistar.com.ar/media/catalog/product/cache/1d01ed3f1ecf95fcf479279f9ae509ad/t/c/tcl-408-front-side-b_negro_1_1.png",
+        "descripcionImagen": "TCL 408",
+        "nombre": "TCL 408",
+        "descripcion": "64GB",
+        "precioAnterior": "$255.000",
+        "precio": "$230.000"
+    },
+    {
+        "id": 4,
+        "badge": "¡Descuentazo!",
+        "categoria": "Celulares",
+        "imagen": "https://d28hi93gr697ol.cloudfront.net/9ef84dda-32dd-4016-7da3-1c0a824fffb4/img/Producto/00c5421e-883c-56ad-afa6-d91f61d99450/Galaxy-A05-662ae02f7ae3c-O.png",
+        "descripcionImagen": "Samsung A05",
+        "nombre": "Samsung A05",
+        "descripcion": "",
+        "precioAnterior": "",
+        "precio": "$345.000"
+    },
+    {
+        "id": 5,
+        "badge": "",
+        "categoria": "Televisores",
+        "imagen": "https://images.fravega.com/f1000/f756be6c89c9bb4aed6dc00327d094dc.jpg",
+        "descripcionImagen": "Samsung A05",
+        "nombre": "Motorola Smart TV 32'",
+        "descripcion": "",
+        "precioAnterior": "380.000",
+        "precio": "$265.000"
+    },
+    {
+        "id": 6,
         "badge": "¡De lujo!",
-        "categoria": "Categoría",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_815862-MLA43921536321_102020-O.webp",
-        "descripcionImagen": "Moto G9 Play color azul",
-        "nombre": "Motorola Moto G9 Play",
-        "descripcion": "4GB de RAM. 256GB. Azul. 50mp Quad Pixel",
-        "precioAnterior": "$275.000",
-        "precio": "$256.000"
+        "categoria": "Televisores",
+        "imagen": "https://www.megatone.net/Images/Articulos/zoom2x/253/TEL5006PHI.jpg",
+        "descripcionImagen": "Philips Smart TV 43'",
+        "nombre": "Philips Smart TV 43'",
+        "descripcion": "",
+        "precioAnterior": "494.000",
+        "precio": "$483.000"
+    },
+    {
+        "id": 7,
+        "badge": "¡Oferta exclusiva!",
+        "categoria": "Televisores",
+        "imagen": "https://tutiendabancor.com.ar/media/catalog/product/cache/9c08c714c8eb7e564db9a133e4630037/1/8/18_652755d416266_ckxzwsjh0gdnsy0w.jpeg",
+        "descripcionImagen": "LG Smart TV 43' 4K",
+        "nombre": "LG Smart TV 43' 4K",
+        "descripcion": "",
+        "precioAnterior": "$700.000",
+        "precio": "$633.000"
+    },
+    {
+        "id": 8,
+        "badge": "¡No te lo pierdas!",
+        "categoria": "Televisores",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_774228-MLA72771406121_112023-O.webp",
+        "descripcionImagen": "Philips Smart TV 50'",
+        "nombre": "Philips Smart TV 50'",
+        "descripcion": "",
+        "precioAnterior": "",
+        "precio": "$690.000"
     }
 ]
